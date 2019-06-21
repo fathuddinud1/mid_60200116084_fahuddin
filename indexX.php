@@ -1,4 +1,4 @@
 <?php
-$nama= 'PHP sekali';
+$nama= 'PHP ko cika';
 echo $nama;
 ?>
