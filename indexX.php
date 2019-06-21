@@ -1,4 +1,4 @@
 <?php
-$nama= 'PHP menampilkan string';
+$nama= 'PHP sekali';
 echo $nama;
 ?>
